@@ -44,33 +44,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/_lucxfvr'
-global.sgh = 'https://github.com/VarrelKun'
-global.sgc = 'https://chat.whatsapp.com/DRnWIXKf0VLH4KArdpH4IX'
-global.sdc = " "
+global.sig = 'https://bit.ly/3CRsAgO'
+global.sgh = 'https://bit.ly/3CRsAgO'
+global.sgc = 'https://bit.ly/3CRsAgO'
+global.sdc = "https://bit.ly/3CRsAgO"
 global.snh = 'https://PentaPage.my.id'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085954184111'
-global.povo = '_'
-global.pgopay = '_'
-global.ppulsa = '085954184111'
-global.ppulsa2 = '085954184111'
-global.psaweria = '_'
+global.pdana = '089516947204'
+global.povo = '089516947204'
+global.pgopay = '089516947204'
+global.ppulsa = '089516947204'
+global.ppulsa2 = '089516947204'
+global.psaweria = 'https://bit.ly/3CRsAgO'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '17754764633'
-global.nomorown = '6282321015688'
-global.namebot = 'xynaa'
-global.nameown = 'Xennz'
+global.nomorbot = '62895359553849'
+global.nomorown = '6289516947204'
+global.namebot = 'AIRA'
+global.nameown = 'OWNER'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['17754764633'],
-  ['6285954184111'],
-  ['18126338970'],
-  ['6282321015688', 'Xynaa', true]
+  ['62895359553849'],
+  ['6289516947204'],
+  ['6289516947204'],
+  ['6289516947204', 'OWNER', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -114,12 +114,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 𝐏𝐄𝐍𝐓𝐀𝐆𝐑𝐀𝐌 」' //Main Watermark
-global.wm2 = '𝐏𝐄𝐍𝐓𝐀𝐆𝐑𝐀𝐌'
-global.wm3 = '⛧𝐏𝐄𝐍𝐓𝐀𝐆𝐑𝐀𝐌'
+global.wm = '                「 𝐀𝐈𝐑𝐀 𝐁𝐎𝐓 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 」' //Main Watermark
+global.wm2 = '𝐀𝐈𝐑𝐀 𝐁𝐎𝐓 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏'
+global.wm3 = '⛧𝐀𝐈𝐑𝐀 𝐁𝐎𝐓 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '⛧┊ PENTAGRAM ʙᴏᴛ'
+global.titlebot = '⛧┊𝐁𝐎𝐓 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏'
 global.author = global.wm
 
 
@@ -173,7 +173,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '_'
-global.stickauth = `𝐏𝐄𝐍𝐓𝐀𝐆𝐑𝐀𝐌`
+global.stickauth = `𝐀𝐈𝐑𝐀 𝐁𝐎𝐓 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏`
 
 global.multiplier = 38 // The higher, The harder levelup
 
